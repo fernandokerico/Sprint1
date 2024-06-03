@@ -5,5 +5,3 @@ Nessa Sprint veremos:
 * Fundamentos QA;
 * AWS;
 * CyberSecurity
-
-  ![Clique aqui](https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages) 
